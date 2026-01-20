@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YaLlego</string>
+
+    
+    <string name="firebase_database_url">https://yallego-default-rtdb.firebaseio.com</string>
+    <string name="firebase_storage_bucket">yallego.appspot.com</string>
+
+
+
+    
+    <string name="mapbox_access_token">pk.eyJ1IjoiamFpZGVyMjIiLCJhIjoiY21nemc1dW91MDYxZTdwcTF3Zzg1MXc1ZyJ9.IdJZobq2I6lY_pvCinvtvQ</string>
+
+    
+    <string name="welcome">Bienvenido a YaLlego</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="user">Usuario</string>
+    <string name="driver">Conductor</string>
+    <string name="logout">Cerrar Sesión</string>
+
+    
+    <string name="tutorial_image">Imagen del tutorial</string>
+</resources>
